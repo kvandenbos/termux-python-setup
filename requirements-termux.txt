@@ -1,0 +1,12 @@
+numpy==2.3.2
+pandas==2.3.1
+filelock==3.18.0
+distlib==0.4.0
+platformdirs==4.3.8
+python-dateutil==2.9.0.post0
+pytz==2025.2
+setuptools==80.9.0
+six==1.17.0
+tzdata==2025.2
+virtualenv==20.32.0
+wheel==0.45.1
