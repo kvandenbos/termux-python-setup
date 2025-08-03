@@ -1,1 +1,6 @@
-termux-setup.log
+__pycache__/
+*.pyc
+*.log
+*.tar.gz
+env/
+freqtrade-env/
