@@ -1,25 +1,27 @@
-# Termux Python Setup
-_   _  ____  __  __    _    ____  _  __ ___   ____ ___ _   _ 
-| \ | |/ __ \|  \/  |  / \  |  _ \| |/ // _ \ / ___|_ _| \ | |
-|  \| | |  | | |\/| | / _ \ | | | | ' /| | | | |    | ||  \| |
-| |\  | |__| | |  | |/ ___ \| |_| | . \| |_| | |___ | || |\  |
-|_| \_|\____/|_|  |_/_/   \_\____/|_|\_\\___/ \____|___|_| \_|
+# NOMADIK TERMINAL
 
-        ✪ NOMADIK TERMINAL ✪
-**When All Else Fails... You Don't!**
+![Logo](assets/logo/nomadik_rune_dark.png)
 
-Welcome to NOMADIK TERMINAL — a rugged crypto trading toolkit built for the mobile operator, survivalist, and digital nomad. Whether you're in a bunker or a backroom, this command-line arsenal is ready to deploy.
+> **“When All Else Fails—You Don’t.”**
+
+NOMADIK TERMINAL is a mobile-first crypto trading toolkit built for survivalists, digital nomads, and tactical operators. Designed to run inside Termux on Android, it deploys algorithmic strategies through the Freqtrade engine with multi-exchange support, Telegram alerts, and a shortcut-driven command-line interface.
+
+Whether you're off-grid or on the move, NOMADIK TERMINAL turns your device into a resilient, encrypted trading station.
+
+---
 
 ## ⚡ Features
-- 🔁 Two plug-and-play trading strategies (RSI & EMA Crossover)
-- 🧬 Exchange-ready JSON configs (BinanceUS, KuCoin)
-- 🧠 Fuzzy logic shortcuts for quick execution
-- 🔐 Telegram alerts for trade signals and updates
-- 📜 Log rotator for tidy tracking and auditing
-- 🛠 Powered by Freqtrade + Termux with isolated virtual env
 
-## 📦 Installation
+- 🔁 Plug-and-play strategies: RSI & EMA crossover
+- 📡 Exchange-ready configs: BinanceUS & KuCoin
+- 🧠 Shortcut dashboard with fuzzy logic
+- 🔐 Telegram alerts for trade signals
+- 📜 Log rotator for audit-ready tracking
+- 🛠 Powered by Freqtrade + Termux in a virtual environment
 
-Use our one-line bootstrap installer:
+---
+
+## 🚀 Quick Install
 
 ```bash
+curl -s https://yourdomain.com/install_nomadik_terminal.sh | bash
